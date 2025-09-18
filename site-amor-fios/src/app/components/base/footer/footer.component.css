@@ -12,7 +12,8 @@ footer {
     background-color: white;
     align-items: center;
     justify-content: space-between;
-    padding: 0.5rem;
+    padding: 1rem;
+    /* margin-top: 400px; */
 }
 
 .termos_LGPD {
@@ -30,27 +31,22 @@ ul {
     font-size: 20px;
     font-style: normal;
     list-style: none;
+    color: #421D6F;
 }
 
-li {
-    display: flex;
-    flex-direction: row;
-}
 
-img {
+.logo-footer {
     display: flex;
     width: 200px;
     height: 50px;  
     justify-content: flex-end;
+    align-items: center;
 }
 
-/*display: flex;
-    justify-content: space-between;
+.icon-footer {
+    padding-right: 4rem;
     align-items: center;
-    border-bottom: solid 0.2px rgba(0, 0, 0, 0.2);
-    background: #FFF;
-    box-shadow: 0 2px 2px 0 rgba(115, 80, 158, 0.15);
-    padding: 1rem;*/
+}
 
 
 
