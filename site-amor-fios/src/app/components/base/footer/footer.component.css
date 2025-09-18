@@ -12,6 +12,7 @@ footer {
     background-color: white;
     align-items: center;
     justify-content: space-between;
+    padding: 0.5rem;
 }
 
 .termos_LGPD {
@@ -20,7 +21,6 @@ footer {
     gap: 25px;
     align-items: center;
     background: #FFF;
-    padding: 1rem;
 }
 
 ul {
